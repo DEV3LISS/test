@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace экзаменНаджафов
 {
-    public partial class Form1 : Form
+    public partial class ckients : Form
     {
-        public Form1()
+        public ckients()
         {
             InitializeComponent();
         }
